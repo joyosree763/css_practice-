@@ -1,0 +1,20 @@
+/* 
+Selector {
+  property1: Value1;
+  property2: Value2;
+  property3: Value3;
+  property4: Value4;
+  property5: Value5;
+}
+*/
+
+/* Selector {property1: Value1; property2: Value2;} */
+
+/* Example */
+body {
+  background: red;
+  color: white;
+}
+
+/* Need to increase font size and change test color. */
+/* Comments goes to here. */
